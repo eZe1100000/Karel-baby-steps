@@ -1,5 +1,5 @@
 # Karel-baby-steps
-Stanford Code in Place Karel exercises focused on problem solving and Python fundamentals
+Code in Place Karel exercises focused on problem solving and Python fundamentals
 
 ## 🏛️ 1- Problem Overview
 
@@ -23,7 +23,30 @@ Karel may count on the following facts about the world, listed below:
     </td>
   </tr>
 </table>
-        
+
+## 🏛️ 2- Problem Overview
+
+A Zebra crossing is a pattern of alternating columns and gaps. In this problem, Karel must create a Zebra crossing by placing beepers in a specific pattern.
+
+The pattern starts with a 2-square wide column of beepers, followed by repeating pairs of a 3-square wide gap and another 2-square wide column of beepers.
+
+Your job is to implement a program that allows Karel to make a Zebra crossing. Your program should work for any world that meets the criteria below:
+
+The world will be at least 7 squares wide
+
+The world will be precisely wide enough to begin and end with a column of two beepers
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="452" height="222" alt="Ekran görüntüsü 2026-05-06 231447" src="https://github.com/user-attachments/assets/4255bc1a-673e-4245-b6dd-c2eac0106022" /><br>
+    </td>
+    <td align="center">
+     <img width="451" height="240" alt="Ekran görüntüsü 2026-05-06 231457" src="https://github.com/user-attachments/assets/80f70a16-0615-42df-bce4-a10a7fe3d8e8" />
+<br>
+    </td>
+  </tr>
+</table>
 
 
 
